@@ -1,0 +1,1 @@
+- Hoy aprendí a actualizar los drivers de Nvidia en Ubuntu 24.04
